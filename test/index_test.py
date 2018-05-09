@@ -1,5 +1,5 @@
 from unittest import TestCase
-import ipynb.fs.defs.index
+import ipynb.fs.full.index
 
 class FieldElementTest(TestCase):
 
